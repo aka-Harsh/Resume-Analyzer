@@ -1,0 +1,5 @@
+streamlit
+google-auth
+requests
+google-generativeai
+python-dotenv
