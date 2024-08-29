@@ -15,18 +15,18 @@
 
 🎥 Here you can find a video of the working project
 
-https://stock-price-predictor-9yes3rhwbjwjveqmvzx73v.streamlit.app/
+https://github.com/user-attachments/assets/9e2ec209-a7e4-4f12-8ddc-1572b15ac7a0
 
 
 ## Prerequisites 
 
 👇 Before running this project, make sure you have the latest release of Poppler installed on your system
 
-https://github.com/oschwartz10612/poppler-windows/releases/
+[Poppler Download](https://github.com/oschwartz10612/poppler-windows/releases/)
 
 👇 Locate to your .env file and paste your Google Gemini API key
 
-https://ai.google.dev/gemini-api/docs/api-key
+[Get Your API key](https://ai.google.dev/gemini-api/docs/api-key)
 
 ## Deployment
 
@@ -56,3 +56,6 @@ Finally run the app.py file
 
 
 ## Project Outlook
+
+![Screenshot 2024-08-29 150649](https://github.com/user-attachments/assets/008d9541-03bc-4d95-8095-4231989a4fae)
+![Screenshot 2024-08-29 150734](https://github.com/user-attachments/assets/fdd826e2-0127-4db9-b41d-d314adbc2bac)
